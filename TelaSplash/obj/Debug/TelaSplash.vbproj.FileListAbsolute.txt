@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\bin\Debug\TelaSplash.exe.config
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\bin\Debug\TelaSplash.exe
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\bin\Debug\TelaSplash.pdb
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\bin\Debug\TelaSplash.xml
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.vbprojAssemblyReference.cache
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.Frm_splash.resources
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.Resources.resources
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.vbproj.GenerateResource.cache
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.vbproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.exe
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.xml
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.pdb
+C:\Users\andre\source\repos\TelaSplash\TelaSplash\obj\Debug\TelaSplash.Frm_menu.resources
